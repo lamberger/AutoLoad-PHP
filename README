@@ -1,3 +1,4 @@
+# AutoLoad PHP
 A simple example of how to autoload php classes.
 Useful when you have a lots of classes to include.
 
